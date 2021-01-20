@@ -4,6 +4,7 @@
 
 Use the command `python main.py` to run the application
 
+
 ## Classes
 
 ### Knight
@@ -70,6 +71,7 @@ A helper class with I/O functions.
 
     default_board()
     play_game()
+
 
 ## Files
     `moves.txt`: File containing valid moves for the game
